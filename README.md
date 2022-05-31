@@ -45,13 +45,13 @@ Button : If you are deploying from a fork
 
 
 
-## 💻 Deploy/Hosting Guides of Katsushika
+## 💻 Deploy & Hosting Guides of Katsushika
 
 
 
 -   Section Moved to
 
-    [AsunaBotto-Guides](https://github.com/Issa2001/Katsushika-guides/blob/main/README.md)
+    [Katsushika-Guides](https://github.com/Issa2001/Katsushika-guides/blob/main/README.md)
 
 
 
@@ -65,7 +65,7 @@ Button : If you are deploying from a fork
 
 
 
-## 💪 Contribution
+## 🏅 Contribution
 
 
 
@@ -87,8 +87,9 @@ for more information.
 
 
 
-## ❤ Thanks:
-
+## ❤ Thanks & Owner Credits:
+-   Adiwajshing sir for [Baileys](https://github.com/adiwajshing/baileys)
+-   ShineiIchijo for [Chitoge](https://github.com/ShinNouzen/Chitoge)
 
 
 
