@@ -1,10 +1,10 @@
 {
 
-    "name": "Asuna",
+    "name": "Katsushika",
 
     "version": "3.0.0",
 
-    "description": "A maintained version of Katsushika",
+    "description": "A reversed version of Asuna Bot",
 
     "main": "dist/chitoge.js",
 
@@ -42,7 +42,7 @@
 
     ],
 
-    "author": "Synthesized Infinity, Sapphire & Issa",
+    "author": "Synthesized Infinity, ShineiIchijo, Sapphire & Issa",
 
     "license": "AGPL-3.0",
 
