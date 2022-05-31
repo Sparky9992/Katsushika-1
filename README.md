@@ -4,7 +4,7 @@
 
 
 
-# **Katsushika: A REVERSED VERSION OF ASUNA BOT**
+# **Katsushika: A REVERSED VERSION OF ASUNA & CHITOGE BOTS**
 
 
 > A Fully Modular and Efficient Bot <br>
