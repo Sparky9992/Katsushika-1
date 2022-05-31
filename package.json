@@ -4,7 +4,7 @@
 
     "version": "3.0.0",
 
-    "description": "A reversed version of Asuna & Chitoge bots.",
+    "description": "A reversed version of Asuna & Chitoge Bots",
 
     "main": "dist/chitoge.js",
 
@@ -38,11 +38,11 @@
 
         "whatsapp",
 
-        "chitoge"
+        "Asuna"
 
     ],
 
-    "author": "Synthesized Infinity, Shinei Ichijo & Issa",
+    "author": "Synthesized Infinity, Shinei Ichino & Issa",
 
     "license": "AGPL-3.0",
 
@@ -152,7 +152,7 @@
 
         "mathjs": "^10.0.0",
 
-        "moment": "^2.29.2",
+        "moment": "^2.29.1",
 
         "mongoose": "^5.12.12",
 
@@ -192,15 +192,17 @@
 
         "ultra-lyrics": "^1.0.3",
 
+        "w5-textmaker": "^1.0.2",
+
         "vtuber-wiki": "^1.1.5",
 
         "wa-sticker-formatter": "^4.2.0",
 
         "wikipedia": "^1.1.6",
 
-        "yt-search": "^2.10.2",
+        "yt-search": "^2.10.3",
 
-        "ytdl-core": "^4.9.1"
+        "ytdl-core": "^4.11.0"
 
     }
 
