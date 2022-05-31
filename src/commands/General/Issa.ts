@@ -19,7 +19,7 @@ export default class Command extends BaseCommand {
 
 	run = async (M: ISimplifiedMessage): Promise<void> => {
 		const becky =
-			"https://www.linkpicture.com/q/Issa-logo.jpg";
+			"https://www.linkpicture.com/q/TextPro.me_162966ac260cc5.jpg";
 		return void this.client.sendMessage(
 			M.from,
 			{ url: becky },
@@ -27,7 +27,7 @@ export default class Command extends BaseCommand {
 			{
 				quoted: M.WAMessage,
 				mimetype: Mimetype.jpeg,
-				caption: `Hey pal!🍃I'm Issa, a learner/student & an upcoming developer in the future.
+				caption: `Sup Homiess!🍃I'm Ishaan, a learner/student & an upcoming developer in the future.
             
 📫𝙒𝙝𝙖𝙩𝙨𝘼𝙥𝙥;
 Wa.me/918839439805
