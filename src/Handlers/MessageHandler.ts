@@ -71,7 +71,7 @@ export default class MessageHandler {
         this.client.user.name ||
         this.client.user.vname ||
         this.client.user.short ||
-        "Katsushika";
+        "Asuna";
     } else if (M.WAMessage.key.fromMe) return void null;
 
     if (M.from.includes("status")) return void null;
@@ -235,7 +235,7 @@ export default class MessageHandler {
         }
       );
       await this.client.sendMessage(Data.jids[p], buffer, MessageType.image, {
-        caption: `A Wild Pokemon Appeared! Use ${this.client.config.prefix}catch (pokemon_name) to catch this pokemon!`,
+        caption: `A Wild Pokemon Appeared! [Use ${this.client.config.prefix}catch <pokemon_name> to catch it!]`,
       });
       setTimeout(async () => {
         await this.client.DB.group.updateOne(
@@ -284,7 +284,7 @@ export default class MessageHandler {
       ];
       const buttonMessage: any = {
         contentText: `*A claimable character Appeared!*\n\n🏮 *Name: ${chara.name}*\n\n📑 *About:* ${chara.about}\n\n🌐 *Source: ${source[0].anime.title}*\n\n💰 *Price: ${price}*\n\n*[Use ${this.client.config.prefix}claim to have this character in your gallery]*`,
-        footerText: "© 𝖠𝗌𝗎𝗇𝖺 2022",
+        footerText: "© Katsushika",
         buttons: buttons,
         headerType: 4,
         imageMessage: media?.message?.imageMessage,
