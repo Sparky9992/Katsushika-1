@@ -15,4 +15,4 @@ export default class Command extends BaseCommand {
 
   //eslint-disable-next-line
   run = async (M: ISimplifiedMessage, args: IParsedArgs): Promise<void> => {};
-}
+
