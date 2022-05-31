@@ -88,7 +88,7 @@ for more information.
 
 
 ## ❤ Thanks & Owner Credits:
--   Adiwajshing sir for [Baileys](https://github.com/adiwajshing/baileys)
+-   Adiwajshing for [Baileys](https://github.com/adiwajshing/baileys)
 -   ShineiIchijo for [Chitoge](https://github.com/ShinNouzen/Chitoge)
 
 
